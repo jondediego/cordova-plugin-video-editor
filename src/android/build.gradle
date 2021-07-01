@@ -5,7 +5,7 @@ repositories{
 }
 
 dependencies {
-    implementation 'com.github.AlexMiniApps:android-transcoder:Tag'
+    implementation 'com.github.AlexMiniApps:android-transcoder:v0.3.0'
 }
 
 android {
